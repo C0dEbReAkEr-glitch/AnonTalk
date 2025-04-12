@@ -2,8 +2,6 @@
 
 A modern decentralized chat application with real-time messaging, user presence, and media sharing capabilities.
 
-![DecentChat Screenshot](screenshots/app.png)
-
 ## Features
 
 ### Real-time Communication
